@@ -1,4 +1,0 @@
-# ProjectChatTinyurl
-
-**TODO: Add description**
-
